@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IC_DESIGN_BANNER_LINK_HERE" alt="IC Design Banner" width="100%" />
+  <img src="./github-banner-final.svg" alt="IC Design Banner" width="100%" />
   
   <h1>Hi there 👋, I'm Lương Khúc Khoa Nguyên</h1>
   <p><i>Computer Engineering Student | Passionate about IC Design & Embedded Systems</i></p>
