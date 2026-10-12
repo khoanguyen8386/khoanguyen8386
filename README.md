@@ -11,7 +11,7 @@
 - 🎓 Currently studying Computer Engineering at **Vietnam National University - Ho Chi Minh City International University (HCMIU)**.
 - 🌱 Deep-diving into **RTL Design, FPGA, ASIC synthesis**, and microprocessor architecture (e.g., RISC-V).
 - 💡 Aspiring to become a **Digital IC Design Engineer**.
-- 📫 How to reach me: **[Your Email or LinkedIn Profile]**
+- 📫 How to reach me: Gmail: noname02012006@gmail.com
 
 ### 🛠 Core Skills & EDA Tools
 <p>
