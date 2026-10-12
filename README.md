@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./github-banner-final.svg" alt="IC Design Banner" width="100%" />
   
-  <h1>Hi there 👋, I'm Lương Khúc Khoa Nguyên</h1>
+  <h1>Hi there, I'm Lương Khúc Khoa Nguyên</h1>
   <p><i>Computer Engineering Student | Passionate about IC Design & Embedded Systems</i></p>
 </div>
 
@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Currently studying Computer Engineering at **Vietnam National University - Ho Chi Minh City International University (HCMIU)**.
+- | **Current GPA: 76.6/100**
 - 🌱 Deep-diving into **RTL Design, FPGA, ASIC synthesis**, and microprocessor architecture (e.g., RISC-V).
 - 💡 Aspiring to become a **Digital IC Design Engineer**.
 - 📫 How to reach me: Gmail: noname02012006@gmail.com
