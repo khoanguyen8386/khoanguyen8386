@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Currently studying Computer Engineering at **Vietnam National University - Ho Chi Minh City International University (HCMIU)**.
-- | **Current GPA: 76.6/100**
+- **Current GPA: 76.6/100**
 - 🌱 Deep-diving into **RTL Design, FPGA, ASIC synthesis**, and microprocessor architecture (e.g., RISC-V).
 - 💡 Aspiring to become a **Digital IC Design Engineer**.
 - 📫 How to reach me: Gmail: noname02012006@gmail.com
