@@ -12,7 +12,7 @@
 - **Current GPA: 76.6/100**
 - 🌱 Deep-diving into **RTL Design, FPGA, ASIC synthesis**, and microprocessor architecture (e.g., RISC-V).
 - 💡 Aspiring to become a **Digital IC Design Engineer**.
-- 📫 How to reach me: Gmail: noname02012006@gmail.com
+- 📫 How to reach me: Gmail: lkknguyen6789@gmail.com
 
 ### 🛠 Core Skills & EDA Tools
 <p>
