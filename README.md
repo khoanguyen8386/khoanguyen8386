@@ -31,5 +31,5 @@
 ### 🚀 Featured Hardware Projects
 | Project Name | Architecture Overview | Technologies / Board | View Details |
 | :--- | :--- | :--- | :--- |
-| **[32-bit RISC-V CPU Core]** | 5-stage pipeline architecture implementing the base RV32I instruction set. | Verilog, ModelSim | [👉 View RTL & Waveforms](https://github.com/username/project1) |
+| **[32-Bit MIPS32 & AMBA 3 Mini-SoC]** | Complete 32-bit RISC SoC featuring a single-cycle MIPS32 core with hardware interrupts (`EPC`/`ERET`), two-tier AMBA 3 AHB-Lite & APB3 bus fabric, dual-port SRAM, 4 peripherals (GPIO, Timer, UART, Clock Gating), hardware BCD engine, and 16×2 LCD controller. | Verilog HDL, Quartus Prime, Terasic DE2-115 (Cyclone IV E) | [👉 View RTL & Live Demo](https://github.com/khoanguyen8386/Project-Mini-SoC-CPU-bus-bridge-and-peripherals) |
 | **[AES Cryptography Accelerator]** | High-throughput hardware module for data encryption. | SystemVerilog, Artix-7 | [👉 View RTL & Waveforms](https://github.com/username/project2) |
